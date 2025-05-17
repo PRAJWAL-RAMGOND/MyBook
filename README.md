@@ -31,3 +31,4 @@ This is a social network clone inspired by early 2000s platforms like MySpace an
 - Add real-time notifications  
 - Implement a messaging system  
 - Enhance UI with modern frameworks  
+-
