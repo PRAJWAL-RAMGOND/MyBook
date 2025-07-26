@@ -32,7 +32,7 @@ This is a social network clone inspired by early 2000s platforms like MySpace an
 - Implement a messaging system  
 - Enhance UI with modern frameworks
   
-📸 Project Preview
+## 📸 Project Preview
 <img width="900" height="480" alt="image" src="https://github.com/user-attachments/assets/4e8e7903-707f-4d2a-90f3-95f77211d57f" />
 <img width="900" height="649" alt="image" src="https://github.com/user-attachments/assets/abcc67d9-86f3-4d8e-aaf8-b952872e829d" />
 <img width="900" height="719" alt="image" src="https://github.com/user-attachments/assets/806131ef-9891-490e-b77e-459447fe6702" />
