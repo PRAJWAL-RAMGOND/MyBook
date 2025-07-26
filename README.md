@@ -19,7 +19,9 @@ This is a social network clone inspired by early 2000s platforms like MySpace an
 ## Database Design  
 - Relational database with tables for users, friends, posts, comments, and images  
 - Proper use of primary keys, foreign keys, and indexes  
-- CRUD operations implemented for all major entities  
+- CRUD operations implemented for all major entities
+  <img width="833" height="649" alt="image" src="https://github.com/user-attachments/assets/d3a410ee-7329-4353-9b45-0c6bd28f8682" />
+
 
 ## How to Run  
 1. Clone the repo  
