@@ -30,10 +30,6 @@ This is a social network clone inspired by early 2000s platforms like MySpace an
 3. Update database credentials in the PHP config file  
 4. Run the project on a local server (e.g., XAMPP, WAMP)  
 
-## Future Improvements  
-- Add real-time notifications  
-- Implement a messaging system  
-- Enhance UI with modern frameworks
   
 ## 📸 Project Preview
 <img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/4e8e7903-707f-4d2a-90f3-95f77211d57f" />
@@ -47,7 +43,10 @@ This is a social network clone inspired by early 2000s platforms like MySpace an
 <img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/c2d84121-3dd3-4f22-92f1-50bdff139277" />
 
 
-
+## Future Improvements  
+- Add real-time notifications  
+- Implement a messaging system  
+- Enhance UI with modern frameworks
 
 
 
